@@ -9,6 +9,8 @@ namespace GitwithVS2
 
             Console.WriteLine("Hello World! last");
 
+            Console.ReadKey();
+
         }
     }
 }
