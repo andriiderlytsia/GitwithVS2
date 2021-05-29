@@ -6,7 +6,9 @@ namespace GitwithVS2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helle git 2");
+
+            Console.WriteLine("Hello World! last");
+
         }
     }
 }
